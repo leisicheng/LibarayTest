@@ -10,6 +10,6 @@ package com.abel.libtest
  *
  * @author Abel
  */
-class STest {
+object STest {
     fun add(i: Int, i1: Int): Int = i + i1
 }
